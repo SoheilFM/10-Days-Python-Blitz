@@ -4,3 +4,6 @@ name = input("Please Enter Your Name")
 #on Who the person is?
 if (name == "Soheil"):#An if Statement takes ()
     print("Hello, Master "+ name)
+    #python is an indented language!
+else:
+    print("Hello, Student")
