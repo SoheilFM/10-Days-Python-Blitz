@@ -1,5 +1,5 @@
 #Operator- symobl /sign that can manipulate / or do somthing with and oprand
-# Operand - is something that ann operator affects
+# Operand - is something that an operator affects
 a_number = 3+5
 ############python opertator
 a_number = 5 +3.14
@@ -18,3 +18,13 @@ a_quotient = 10 / 2 #5
 # < = Less Than symbol
 print(3<2)
 print(3>2)
+# >= ------->Greater than or Equal to
+# <= -------> less than or Equal to
+print(3<3)
+print(3>=3)
+
+# = ------> assigning something 
+# == -----> Eqaul to / Comparing 2 things for match
+# != -----> NOT Eqaul to /
+print(2!=3) #True
+print(2!=2) #False
