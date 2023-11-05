@@ -14,3 +14,7 @@ a_number = 5-3.14
 a_product = 10 * 2 # 20
 # / = division
 a_quotient = 10 / 2 #5
+# > = Greater than symbol
+# < = Less Than symbol
+print(3<2)
+print(3>2)
