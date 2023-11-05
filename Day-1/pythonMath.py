@@ -10,3 +10,5 @@ a_string= "Soheil" + "Farid"
 # - = a negative sign when used before a number 
 negative_number = -2
 a_number = 5-3.14
+# Multiplication
+a_product = 10 * 2 # 20
