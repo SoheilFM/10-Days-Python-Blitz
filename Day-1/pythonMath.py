@@ -12,3 +12,5 @@ negative_number = -2
 a_number = 5-3.14
 # Multiplication
 a_product = 10 * 2 # 20
+# / = division
+a_quotient = 10 / 2 #5
